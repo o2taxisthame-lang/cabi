@@ -1,0 +1,6 @@
+{
+  "name": "O2Taxi - 24/7 Taxi Service in Thame, Oxfordshire",
+  "description": "Reliable 24/7 taxi service in Thame, Oxfordshire and surrounding areas. Airport transfers, local taxis, train station transfers, school runs, delivery and business travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
